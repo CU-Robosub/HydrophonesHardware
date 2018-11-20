@@ -1,0 +1,14 @@
+Record=DiagramHierarchy|SourceDocument=BeagleBoneAssembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\Hydrophones_ADC_Module_1\Hydrophones_ADC_Module_1.PrjPcb
+Record=SubProject|SourceDocument=BeagleBoneAssembly.MbsDoc|ProjectPath=..\Hydrophones_ADC_Module_1\Hydrophones_ADC_Module_1.PrjPcb
+Record=DiagramHierarchy|SourceDocument=BeagleBoneAssembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\Hydrophones_Beaglebone_Cape\Hydrophones_Beaglebone_Cape.PrjPcb
+Record=SubProject|SourceDocument=BeagleBoneAssembly.MbsDoc|ProjectPath=..\Hydrophones_Beaglebone_Cape\Hydrophones_Beaglebone_Cape.PrjPcb
+Record=DiagramHierarchy|SourceDocument=BeagleBoneAssembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\Hydrophones_FrontEnd_Module_1\Hydrophones_FrontEnd_Module_1.PrjPcb
+Record=SubProject|SourceDocument=BeagleBoneAssembly.MbsDoc|ProjectPath=..\Hydrophones_FrontEnd_Module_1\Hydrophones_FrontEnd_Module_1.PrjPcb
+Record=DiagramHierarchy|SourceDocument=BeagleBoneAssembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=7|Source=..\Hydrophones_RA_Adapter_1\Hydrophones_RA_Adapter_1.PrjPCB
+Record=SubProject|SourceDocument=BeagleBoneAssembly.MbsDoc|ProjectPath=..\Hydrophones_RA_Adapter_1\Hydrophones_RA_Adapter_1.PrjPCB
+Record=DiagramHierarchy|SourceDocument=BeagleBoneAssembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=4|Source=..\Hydrophones_RA_Adapter_1\Hydrophones_RA_Adapter_1.PrjPCB
+Record=SubProject|SourceDocument=BeagleBoneAssembly.MbsDoc|ProjectPath=..\Hydrophones_RA_Adapter_1\Hydrophones_RA_Adapter_1.PrjPCB
+Record=DiagramHierarchy|SourceDocument=BeagleBoneAssembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=6|Source=..\Hydrophones_RA_Adapter_2\Hydrophones_RA_Adapter_2.PrjPCB
+Record=SubProject|SourceDocument=BeagleBoneAssembly.MbsDoc|ProjectPath=..\Hydrophones_RA_Adapter_2\Hydrophones_RA_Adapter_2.PrjPCB
+Record=DiagramHierarchy|SourceDocument=BeagleBoneAssembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=5|Source=..\Hydrophones_RA_Adapter_2\Hydrophones_RA_Adapter_2.PrjPCB
+Record=SubProject|SourceDocument=BeagleBoneAssembly.MbsDoc|ProjectPath=..\Hydrophones_RA_Adapter_2\Hydrophones_RA_Adapter_2.PrjPCB
