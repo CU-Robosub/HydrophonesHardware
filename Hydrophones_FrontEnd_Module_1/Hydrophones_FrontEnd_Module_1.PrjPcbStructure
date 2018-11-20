@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=BOARD.SchDoc
+Record=SheetSymbol|SourceDocument=BOARD.SchDoc|Designator=CH1|SchDesignator=REPEAT(CH,1,4)|FileName=CHANNEL.SchDoc|SymbolType=Normal|RawFileName=CHANNEL.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BOARD.SchDoc|Designator=CH2|SchDesignator=REPEAT(CH,1,4)|FileName=CHANNEL.SchDoc|SymbolType=Normal|RawFileName=CHANNEL.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BOARD.SchDoc|Designator=CH3|SchDesignator=REPEAT(CH,1,4)|FileName=CHANNEL.SchDoc|SymbolType=Normal|RawFileName=CHANNEL.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BOARD.SchDoc|Designator=CH4|SchDesignator=REPEAT(CH,1,4)|FileName=CHANNEL.SchDoc|SymbolType=Normal|RawFileName=CHANNEL.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BOARD.SchDoc|Designator=U_CONNECTORS|SchDesignator=U_CONNECTORS|FileName=CONNECTORS.SchDoc|SymbolType=Normal|RawFileName=CONNECTORS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
